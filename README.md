@@ -35,6 +35,8 @@ This [article](https://towardsdatascience.com/create-virtual-environment-using-v
 
 ![image](https://github.com/awang378/covid-19-visualizations/blob/master/images/statsb.png)
 
+![image](https://github.com/awang378/covid-19-visualizations/blob/master/images/newcasesus.png)
+
 ![image](https://github.com/awang378/covid-19-visualizations/blob/master/images/streamgraph.png)
 
 ![image](https://github.com/awang378/covid-19-visualizations/blob/master/images/stackedarea.png)
